@@ -1,0 +1,1 @@
+You can customize what you look like while hidden with colors and opacity( Options -> Mobiles )
