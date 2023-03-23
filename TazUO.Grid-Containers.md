@@ -4,12 +4,12 @@ The main reason for this version of ClassicUO!
 ## Features
 Grid containers are 
 * [Resizable](#Resizable)
-* Searchable
-* Anchorable
-* Visual Customization
+* [Searchable](#Searchable)
+* [Anchorable](#Anchorable)
+* [Visual Customization](#Visual Customization)
+* [Item Comparisons] (Item Comparisons)
 * Can toggle off if you like the old containers more (Options -> Containers)
 * Target the background of the gump to target the corpse or container
-* Scale items inside the container (Options -> Containers)
 * More small QOL features not listed here
 
 ### Resizable
@@ -39,7 +39,7 @@ Grid containers can be anchored to each other, world map, and the [[Journal|TazU
 
 You can enable or disable this in `Options>Containers>Grid Containers`
 
-### Visual Customizations
+### Visual Customization
 
 ***
 
@@ -59,6 +59,14 @@ All via the options `Options>Containers>Grid Containers`
 ![image](https://user-images.githubusercontent.com/3859393/227368228-c0462207-6e26-420e-985f-aa3bc171ddd1.png)  
 You can scale the size of the grids and/or items if you want them smaller or larger in `Options>Containers>Grid Containers`
 
+### Item Comparisons
+
+***
+
+![image](https://user-images.githubusercontent.com/3859393/227375628-33ec6f91-dc3c-4e3d-beee-d15fc8660a23.png)  
+Compare items you are hovering over with items you have equipped!
+
+***
 
 # Screenshots
 
