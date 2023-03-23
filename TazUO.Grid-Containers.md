@@ -6,8 +6,8 @@ Grid containers are
 * [Resizable](#Resizable)
 * [Searchable](#Searchable)
 * [Anchorable](#Anchorable)
-* [Visual Customization](#Visual Customization)
-* [Item Comparisons] (Item Comparisons)
+* [Visual Customization](#Visual-Customization)
+* [Item Comparisons](#Item-Comparisons)
 * Can toggle off if you like the old containers more (Options -> Containers)
 * Target the background of the gump to target the corpse or container
 * More small QOL features not listed here
