@@ -2,7 +2,6 @@
 The main reason for this version of ClassicUO!
 
 ## Features
-Grid containers are 
 * [Resizable](#Resizable)
 * [Searchable](#Searchable)
 * [Anchorable](#Anchorable)
