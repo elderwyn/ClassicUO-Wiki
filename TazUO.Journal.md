@@ -9,3 +9,8 @@
 ![image](https://user-images.githubusercontent.com/3859393/227384051-1c1aafef-791b-4f21-9eb2-dd9a67ba4c72.png)
 
 ![image](https://user-images.githubusercontent.com/3859393/226334207-e1feba52-7426-4993-ba59-e17da1584988.png)
+
+## Settings
+Font settings in `Options->Fonts` are applied to the journal  
+
+You can adjust the journal opacity and background color under `Options->General`
