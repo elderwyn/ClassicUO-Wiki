@@ -1,5 +1,7 @@
+# Intro
 The main reason for this version of ClassicUO!
 
+## Features
 Grid containers are 
 * Resizable
 * Searchable
@@ -11,6 +13,12 @@ Grid containers are
 * Scale items inside the container (Options -> Containers)
 * Select your favorite border style
 * More small QOL features not listed here
+
+# Resizable
+![GIF](https://user-images.githubusercontent.com/3859393/227370117-b16f19f6-4b49-4eb7-9e7d-d04d868adf79.gif)
+
+All grid containers are resizable, just grab the blue icon in the bottom right and pull it!
+
 
 ![image](https://user-images.githubusercontent.com/3859393/227367717-4ecbbfa7-abbf-4622-8eb5-3acf6a211b0c.png)
 
