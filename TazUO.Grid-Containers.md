@@ -14,11 +14,22 @@ Grid containers are
 * Select your favorite border style
 * More small QOL features not listed here
 
-# Resizable
+### Resizable
 ![GIF](https://user-images.githubusercontent.com/3859393/227370117-b16f19f6-4b49-4eb7-9e7d-d04d868adf79.gif)
 
 All grid containers are resizable, just grab the blue icon in the bottom right and pull it!
 
+### Searchable
+![GIF](https://user-images.githubusercontent.com/3859393/227370623-927c6307-8b32-47b9-a79a-bb320d037dba.gif)
+
+All grid containers are searchable, including anything in the item name or properties!
+
+Two different search modes are available in `Options>Containers>Grid Containers`  
+-`Highlight` will put a yellow border around the items matching your query  
+-`Only show` will hide all other items, only showing the ones you searched for  
+
+
+# Screenshots
 
 ![image](https://user-images.githubusercontent.com/3859393/227367717-4ecbbfa7-abbf-4622-8eb5-3acf6a211b0c.png)
 
