@@ -6,8 +6,7 @@ Grid containers are
 * Resizable
 * Searchable
 * Anchorable
-* Customizable(Color and Opacity) (Options -> Containers)
-* Can lock items in specific slots! (Ctrl + Click the item -> Click the slot to lock it into)
+* Visual Cusomizations
 * Can toggle off if you like the old containers more (Options -> Containers)
 * Target the background of the gump to target the corpse or container
 * Scale items inside the container (Options -> Containers)
@@ -41,12 +40,29 @@ Grid containers can be anchored to each other, world map, and the [[Journal|TazU
 
 You can enable or disable this in `Options>Containers>Grid Containers`
 
+### Visual Customizations
+
+***
+
+![image](https://user-images.githubusercontent.com/3859393/227368459-3f4fb54a-9e1e-4fac-a522-21e17ff51ec4.png)  
+You can customize many of the visual aspects of grid containers:
+* Grid border hue
+* Grid background color
+* Opacity for both of those
+* Select different border styles
+
+All via the options `Options>Containers>Grid Containers`
+
+### Grid and Item scaling
+
+***
+
+![image](https://user-images.githubusercontent.com/3859393/227368228-c0462207-6e26-420e-985f-aa3bc171ddd1.png)  
+You can scale the size of the grids and/or items if you want them smaller or larger in `Options>Containers>Grid Containers`
+
+
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/3859393/227367717-4ecbbfa7-abbf-4622-8eb5-3acf6a211b0c.png)
 
 ![image](https://user-images.githubusercontent.com/3859393/227367995-aa75febe-802e-4e92-95e1-d2cab5773029.png)
-
-![image](https://user-images.githubusercontent.com/3859393/227368228-c0462207-6e26-420e-985f-aa3bc171ddd1.png)
-
-![image](https://user-images.githubusercontent.com/3859393/227368459-3f4fb54a-9e1e-4fac-a522-21e17ff51ec4.png)
