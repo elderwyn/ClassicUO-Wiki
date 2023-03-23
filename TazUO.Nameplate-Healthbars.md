@@ -1,6 +1,7 @@
+# Nameplate healthbars
 Nameplates can also be health bars now
 
-Options->General->Mobiles
+Enable this under `Options->General->Mobiles` where you can also adjust the opacity of the background.
 
 ![image](https://user-images.githubusercontent.com/3859393/226234546-9f5b3ded-3c44-4d4d-8d27-2c7ea0cb29c0.png)
 
