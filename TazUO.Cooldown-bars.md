@@ -18,4 +18,4 @@ It should be fairly self-explanatory how this works but I will cover it in detai
 * Cool down is the duration in **seconds**
 * You have the option to of `All, Other, Self` to choose, this is who the message is coming from
 * ![image](https://user-images.githubusercontent.com/3859393/227380977-94e50b70-ddb1-4144-a49d-dac7efe6f7cb.png) The preview button will create a cool down with your color and label so you can see it
-* ![image](https://user-images.githubusercontent.com/3859393/227380977-94e50b70-ddb1-4144-a49d-dac7efe6f7cb.png) The save button will save any changes you've made to that cool down condition. **🔴This is the only way to save a cool down condition🔴**, the Apply button does not affect these.
+* ![image](https://user-images.githubusercontent.com/3859393/227380977-94e50b70-ddb1-4144-a49d-dac7efe6f7cb.png) The save button will save any changes you've made to that cool down condition. **:warning:This is the only way to save a cool down condition:warning:**, the Apply button does not affect these.
