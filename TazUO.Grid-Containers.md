@@ -3,14 +3,13 @@ The main reason for this version of ClassicUO!
 
 ## Features
 Grid containers are 
-* Resizable
+* [Resizable](#Resizable)
 * Searchable
 * Anchorable
-* Visual Cusomizations
+* Visual Customization
 * Can toggle off if you like the old containers more (Options -> Containers)
 * Target the background of the gump to target the corpse or container
 * Scale items inside the container (Options -> Containers)
-* Select your favorite border style
 * More small QOL features not listed here
 
 ### Resizable
