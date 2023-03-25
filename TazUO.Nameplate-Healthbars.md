@@ -4,7 +4,7 @@
 
 ## Settings
 ![image](https://user-images.githubusercontent.com/3859393/226234546-9f5b3ded-3c44-4d4d-8d27-2c7ea0cb29c0.png)  
-Enable this under `Options->General->Mobiles` where you can also adjust the opacity of the background.
+Enable this under `Options->General->Mobiles` where you can also adjust the opacity of the background.  
 If you only want to show health bars below 100% while in warmode, there is now a toggle for that 
 ![image](https://user-images.githubusercontent.com/3859393/227722943-4278f68d-7a3c-470a-aac2-90352c79bd62.png)
 
