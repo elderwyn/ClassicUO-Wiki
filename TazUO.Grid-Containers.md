@@ -44,10 +44,10 @@ You can enable or disable this in `Options>Containers>Grid Containers`
 
 ![image](https://user-images.githubusercontent.com/3859393/227368459-3f4fb54a-9e1e-4fac-a522-21e17ff51ec4.png)  
 You can customize many of the visual aspects of grid containers:
-* Grid border hue
+* Grid item border hue
 * Grid background color
 * Opacity for both of those
-* Select different border styles
+* Select different gump styles
 
 All via the options `Options>Containers>Grid Containers`
 
