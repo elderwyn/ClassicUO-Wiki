@@ -6,9 +6,7 @@
 * Support to Graphic Overrides if existing png art is present.
 * Graphic Scaling
 
-![image](https://user-images.githubusercontent.com/3859393/227384051-1c1aafef-791b-4f21-9eb2-dd9a67ba4c72.png)
-
-![image](https://user-images.githubusercontent.com/3859393/226334207-e1feba52-7426-4993-ba59-e17da1584988.png)
+![image](https://user-images.githubusercontent.com/127065794/229312941-3d757a9a-fd55-4b95-aadc-9ab063a1e46c.png)
 
 ## Settings
 GumpPic Texture ranges are 0 - 65000. Recommend using a tool like UOFiddler to available art.
